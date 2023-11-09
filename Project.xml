@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Project>
+    <EmployeeProject>
+      <Employee>
+        <EmployeeId>5606</EmployeeId>
+        <FirstName>harsha</FirstName>
+        <LastName>mergu</LastName>
+        <Email>harshamergu@gmail.com</Email>
+        <Mobile>6301518455</Mobile>
+        <Address>Telangana</Address>
+        <RoleId>1</RoleId>
+      </Employee>
+    </EmployeeProject>
+    <EmployeeId>0</EmployeeId>
+    <ProjectId>101</ProjectId>
+    <ProjectName>chatbot</ProjectName>
+    <StartDate />
+    <EndDate />
+  </Project>
+  <Project>
+    <EmployeeProject />
+    <EmployeeId>0</EmployeeId>
+    <ProjectId>102</ProjectId>
+    <ProjectName>detection</ProjectName>
+    <StartDate />
+    <EndDate />
+  </Project>
+</ArrayOfProject>
